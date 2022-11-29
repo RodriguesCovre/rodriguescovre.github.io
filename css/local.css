@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #5491A4, #8ebecc, #2888a6);
+    width: 100vw;
+    height: 100vw;
+}
+
+.logo {
+    position: relative;
+    left: 850px;
+    bottom: 80px;
+}
+
+.local {
+    position: relative;
+    bottom: 32%;
+    right: 5px;
+
+}
+
+p {
+    position: relative;
+    color: white;
+    left: 890px;
+    bottom: 100px;
+}

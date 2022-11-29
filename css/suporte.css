@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(to right, #5491A4, #2888a6);
+    margin: 0;
+}
+
+h1 {
+    position: relative;
+    left: 20%;
+    font-size: 60px;
+}
+
+h3 {
+    position: relative;
+    left: 20%;
+    font-size: 30px;
+}
+
+.container {
+    position: relative;
+    width: 1000px;
+    height: 800px;
+    display: flex;
+}
+
+.cartaobranco {
+    position: relative;
+    border-radius: 8px;
+    left: 38%;
+    background: rgb(243, 239, 233);
+    width: 500px;
+    height: 200px;
+}
+
+.patrickatendente {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    border-radius: 100%;
+    left: 60%;
+    top: 35px;
+}
+
+.SpeakWithKoraCard-module__texts--q7HYk {
+    position: relative;
+    bottom: 60px;
+    left: 15px;
+}
+
+.btn2 {
+    width: 140px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
